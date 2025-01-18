@@ -21,4 +21,9 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </div>
   </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical/>  
+  </div>
+  
+
 </div>
