@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 30px; font-family: 'Arial, sans-serif';">
   <div style="width: 45%; text-align: left; border-right: 1px solid #ddd; padding-right: 20px;">
     <h1 style="font-size: 2em; color: #4CAF50;">
@@ -27,9 +29,9 @@
   
 
 </div>
-        <picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=white"
     media="(prefers-color-scheme: dark)"/>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true"
