@@ -22,7 +22,7 @@
     </div>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical/>  
+    "https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical"  
   </div>
   
 
