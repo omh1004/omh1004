@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </div>
   </div>
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omh1004&layout=compact&theme=dracula)  
-</div>
 
