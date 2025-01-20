@@ -7,6 +7,7 @@
   <div style="width: 45%; text-align: left; border-right: 1px solid #ddd; padding-right: 20px;">
     <h1 style="font-size: 2em; color: #4CAF50;">
       <strong>🌟 Profile: omh_dev 🌟</strong>
+       <img src="https://raw.githubusercontent.com/omh1004/univora/dev/src/main/webapp/resources/images/omh_dev.png" alt="Coding Character" width="200" />
     </h1>
     <div style="text-align: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/omh1004/univora/dev/src/main/webapp/resources/images/omh_dev.png" alt="Coding Character" width="200" />
