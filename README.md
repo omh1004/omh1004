@@ -1,8 +1,10 @@
-
+<div>
+  <img src="https://github.com/omh1004/omh1004/blob/main/omhdev.png" alt="Coding Character" width="400" />
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omh1004&layout=compact&theme=dracula)  
-<img src="https://github.com/omh1004/omh1004/blob/main/omhdev.png" alt="Coding Character" width="400" />
+
 
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 30px; font-family: 'Arial, sans-serif';">
