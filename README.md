@@ -1,6 +1,7 @@
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omh1004&layout=compact&theme=dracula)  
 
 
 
@@ -9,8 +10,6 @@
     <h1 style="font-size: 2em; color: #4CAF50;">
       <strong>🌟 Profile: omh_dev 🌟</strong>
        <img src="https://github.com/omh1004/omh1004/blob/main/omhdev.png" alt="Coding Character" width="400" />
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omh1004&layout=compact&theme=dracula)  
     </h1>
     <div style="text-align: center; margin-bottom: 20px;">
       <img src="https://raw.githubusercontent.com/omh1004/univora/dev/src/main/webapp/resources/images/omh_dev.png" alt="Coding Character" width="200" />
