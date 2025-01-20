@@ -21,10 +21,12 @@
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </div>
-  </div>
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omh1004&layout=compact&theme=dracula)  
+    </div>
+  </div>
+</div>
+
+
