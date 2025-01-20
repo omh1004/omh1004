@@ -1,8 +1,9 @@
 <div>
   <img src="https://github.com/omh1004/omh1004/blob/main/omhdev.png" alt="Coding Character" width="1000" height="300" />
-</div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh1004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omh1004&layout=compact&theme=dracula)  
+</div>
+
 
 
 
