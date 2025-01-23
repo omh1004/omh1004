@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 30px; font-family: 'Arial, sans-serif';">
   <div style="width: 45%; text-align: left; border-right: 1px solid #ddd; padding-right: 20px;">
     <h1 style="font-size: 2em; color: #4CAF50;">
-      <strong>🌟 Profile: MinHyun`s Dev 🌟</strong>
+      <strong>🌟 Profile: MinHyun`s Dev 🌟</strong> 
     </h1>
     <div style="text-align: center; margin-bottom: 20px;">
     </div>
