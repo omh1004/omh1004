@@ -6,7 +6,7 @@
     <h1 style="font-size: 2em; color: #4CAF50;">
       <strong>🌟 Profile: MinHyun`s Dev 🌟</strong>    
     </h1>            
-    <div style="text-align: center; margin-bottom: 20px;">         
+    <div style="text-align: center; margin-bottom: 20px;">          
     </div>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffee&logoColor=white" alt="Java" />
