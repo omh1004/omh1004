@@ -5,7 +5,7 @@
   <div style="width: 45%; text-align: left; border-right: 1px solid #ddd; padding-right: 20px;">
     <h1 style="font-size: 2em; color: #4CAF50;">
       <strong>🌟 Profile: MinHyun`s Dev 🌟</strong>      
-    </h1>               
+    </h1>                 
     <div style="text-align: center; margin-bottom: 20px;">          
     </div>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">   
