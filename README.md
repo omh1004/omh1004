@@ -8,7 +8,7 @@
     </h1>                                    
     <div style="text-align: center; margin-bottom: 20px;">                       
     </div>   
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">   
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">      
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffee&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
