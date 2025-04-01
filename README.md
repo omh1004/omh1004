@@ -7,7 +7,7 @@
       <strong>🌟 Profile: MinHyun`s Dev 🌟</strong>                       
     </h1>                                                              
     <div style="text-align: center; margin-bottom: 20px;">                                             
-    </div>       
+    </div>            
     <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">      
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffee&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
